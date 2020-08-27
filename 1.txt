@@ -1,0 +1,8 @@
+file_id:     467c102b-a86d-441b-bd64-8dd56ad130d6
+file_path: data/conference_data/b0679e83-d1f0-4832-aa24-c4f8c9337501/topic_data/zzz@20200805155626/zz.apk
+topic_id:  a608c21f-a0df-48dd-bb07-6e8637b4158b
+
+url: 
+  http://192.168.0.133:10087/data/conference_data/b0679e83-d1f0-4832-aa24-c4f8c9337501/topic_data/zzz@20200805155626/zz.apk
+path:
+  download/b0679e83-d1f0-4832-aa24-c4f8c9337501/a608c21f-a0df-48dd-bb07-6e8637b4158b
